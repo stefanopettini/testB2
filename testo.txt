@@ -1,5 +1,6 @@
 Documento di Analisi
 Why
+Redigiamo questo documento per permettere la comprensione del sistema di versioning
 What
 When
 Who

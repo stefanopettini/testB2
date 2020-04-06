@@ -1,6 +1,7 @@
 Documento di Analisi
 Why
 What
+Lo strumento di versioning è Git (GitHub)
 When
 Who
 Where

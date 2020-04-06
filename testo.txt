@@ -1,5 +1,5 @@
-Documento di Analisi
-Autori:io, utente 1, utente 2
+﻿Documento di Analisi
+Autori:Io, Utente 1, Utente 2, Utente 3
 Why
 Redigiamo questo documento per permettere la comprensione del sistema di versioning
 What

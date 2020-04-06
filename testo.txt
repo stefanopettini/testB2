@@ -5,5 +5,8 @@ Redigiamo questo documento per permettere la comprensione del sistema di version
 What
 Lo strumento di versioning � Git (GitHub)
 When
+Appena possibile
 Who
+Tutti gli elementi del gruppo
 Where
+a casa ed al lavoro

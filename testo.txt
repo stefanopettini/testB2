@@ -1,9 +1,13 @@
-﻿Documento di Analisi di domani
+
+﻿Documento di Analisi di oggi
 Autori:Io, Utente 1, Utente 2, Utente 3
 Why
 Redigiamo questo documento per permettere la comprensione del sistema di versioning
 What
 Lo strumento di versioning � Git (GitHub)
 When
+Appena possibile
 Who
+Tutti gli elementi del gruppo
 Where
+a casa ed al lavoro

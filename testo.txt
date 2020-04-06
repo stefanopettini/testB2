@@ -1,4 +1,5 @@
 Documento di Analisi
+Autori:io
 Why
 Redigiamo questo documento per permettere la comprensione del sistema di versioning
 What
